@@ -1,0 +1,13 @@
+img {
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+  }
+  h2 {
+    text-align: center;
+  }
+  .figcaption {
+    text-align: center;
+    color: darkgray;
+  }
+  
